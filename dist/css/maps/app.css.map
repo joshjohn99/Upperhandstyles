@@ -1,0 +1,1 @@
+{"version":3,"sources":["_global.scss","_variables.scss"],"names":[],"mappings":"AAAA;EACC,ACDO","file":"app.css","sourcesContent":["h1 {\n\tcolor: $color;\n}","$color: yellow;"],"sourceRoot":"/source/"}
