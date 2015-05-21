@@ -10,7 +10,7 @@ gulp.task('sass', function () {
         .pipe(sass())
         .pipe(sourcemaps.write('./maps'))
         .pipe(minifyCss({compatibility: 'ie8'}))
-        .pipe(gulp.dest('dist/css'));
+        .pipe(gulp.dest('dist/css/'));
 
 });
 
